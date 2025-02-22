@@ -1,4 +1,4 @@
-#Git-Learn project
+#Git-Learn Project
 Beginner git test project. 
 
 youtube.com/@teddysnoise7065
