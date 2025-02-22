@@ -1,5 +1,5 @@
 #Git-Learn Project
-Beginner git test project. 
+Beginner Git Test Project. 
 
 youtube.com/@teddysnoise7065
 x.com/teddysnoise
