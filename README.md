@@ -1,6 +1,6 @@
-#Git-Learn Project
+# Git-Learn Project
 Beginner Git Test Project. 
 
-youtube.com/@teddysnoise7065
-x.com/teddysnoise
-twitch.com/teddysnoise
+Task: to make a SPA on Django.
+
+Follow.
