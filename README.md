@@ -6,3 +6,5 @@ x.com/teddysnoise
 twitch.com/teddysnoise
 
 b2 branch
+
+thx
